@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+output/*
+!output/result_output.csv
+outputTest/*
+!outputTest/result_output.csv

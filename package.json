@@ -1,0 +1,23 @@
+{
+  "name": "codingskills",
+  "version": "1.0.0",
+  "description": "### The below describes a problem statement, make sure to read all the instructions in this readme before you start.",
+  "main": "app.js",
+  "scripts": {
+    "merge": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davebra/codingskills.git"
+  },
+  "author": "Davide Bragagnolo",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "csv-stringify": "^5.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
